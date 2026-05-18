@@ -1,0 +1,1 @@
+print("olá mundo, será q eu vou ser algo?")
